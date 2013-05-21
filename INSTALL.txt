@@ -1,0 +1,18 @@
+Para correr este programa es necesario que se tengan instaladas las siguientes librerías:
+
+En linux:
+
+Python
+sudo apt-get install python
+
+Numpy
+sudo apt-get install numpy
+
+Matplotlib
+sudo apt-get install python-matplotlib
+
+OpenCV
+sudo apt-get install python-opencv
+
+PIL
+sudo apt-get install python-imaging
